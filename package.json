@@ -1,5 +1,5 @@
 {
-  "name": "@raidshream/react-native-responsive-resizeer",
+  "name": "@raidshreamdev/react-native-responsive-resizer",
   "version": "1.0.2",
   "description": "Small React Native helpers for responsive size scaling.",
   "main": "./dist/index.js",
