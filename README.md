@@ -1,9 +1,9 @@
-# responsive-size
+# @raidshream/react-native-responsive-resizeer
 
 Small React Native helpers for responsive size scaling.
 
 ```ts
-import { s, vs, ms, mvs, configureSize } from "responsive-size";
+import { s, vs, ms, mvs, configureSize } from "@raidshream/react-native-responsive-resizeer";
 
 configureSize({ width: 375, height: 812 });
 
